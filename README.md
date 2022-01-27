@@ -1,15 +1,22 @@
-# Basic Sample Hardhat Project
+# Mont - Stable Coin - Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+MONT is a Mongolian Tugrik pegged stablecoin hence it will be free from crypto market fluctuations. This relative price stability will reduce the risk of exchange rate fluctuations in the crypto market. Making MONT the best tool for digital trading. <br>
 
-Try running some of the following tasks:
+- The value of MONT is guaranteed and backed by Mongolian Tugrik. Every MONT is always 100% backed by our reserves. MONT will have regular audit reports to ensure the reserves are being maintained.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+- MONT will be available on Ethereum, Binance Smart Chain, Solana, Cardano and other blockchain platforms. Users can store, transfer, and participate in various networks from anywhere in the world whenever they want.
+
+- MONT combines the advantages of blockchain technology with traditional money, making it the most advanced tool for performing your digital transactions. 
+
+---
+
+### Contract Information
+Contract Name : "MONT" <br>
+Decimals : 18 <br>
+Standard : OpenZeppelin ERC-20 <br>
+
+----
+Information :
+[Website](https://stablecoin.mn/) |
+[Whitepaper](https://www.stablecoin.mn/whitepaper.pdf) |
+[BSC Smart Contract](https://bscscan.com/token/0x2D279FDECdf7f5705F5ff0bD80F8D9a305Ea87F4)
